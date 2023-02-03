@@ -1,0 +1,5 @@
+MultiKey adalah sebuah software yang memungkinkan Anda untuk mengendalikan mouse dan keyboard dari satu laptop pada laptop lain yang terhubung pada jaringan yang sama. Ini berarti bahwa Anda dapat mengoperasikan dua laptop dengan hanya menggunakan mouse dan keyboard pada salah satu laptop. MultiKey sangat berguna bagi Anda yang sering bekerja dengan dua laptop sekaligus dan ingin mempermudah proses kerja dengan hanya mengendalikan kedua laptop menggunakan satu set mouse dan keyboard.
+
+MultiKey mudah digunakan dan memiliki antarmuka yang user-friendly. Cukup jalankan software pada kedua laptop yang akan Anda gunakan, lalu hubungkan kedua laptop pada jaringan yang sama. Setelah itu, Anda dapat dengan mudah memindahkan mouse dan mengetik pada laptop yang menjalankan MultiKey dan akan diterima oleh laptop lain yang terhubung.
+
+Dengan MultiKey, Anda dapat menghemat waktu dan meningkatkan efisiensi kerja. Software ini cocok untuk digunakan oleh profesional, pelajar, atau siapa saja yang sering bekerja dengan dua laptop sekaligus. MultiKey tersedia sebagai open source software dan dapat didownload secara gratis melalui link yang disediakan.
